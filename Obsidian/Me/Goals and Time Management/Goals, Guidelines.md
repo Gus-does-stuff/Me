@@ -1,0 +1,5 @@
+- Läsa Kategoriteori
+- Git real gud at Haskell
+- Läsa Kvantdatorer
+- Password Manager
+- 
