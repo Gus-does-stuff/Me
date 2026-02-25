@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+
+cd storage/shared
+cd Documents/Me
+
+git fetch > "../git-logs/fetch-$(date)"
+git pull  > "../git-logs/pull-$(date)"
+
+
+
