@@ -6,3 +6,4 @@
 - Linn DnD
 - Simon DnD
 - Cortege
+- Game w Emil
