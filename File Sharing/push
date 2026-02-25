@@ -4,7 +4,7 @@ cd storage/shared
 cd Documents/Me
 
 git add --all
-git commit -m "GusDroid commit $(date)"
+git commit -m "GusDroid commit $(date)" > "../git-logs/commit-$(date)"
 git push  > "../git-logs/push-$(date)"
 
 
