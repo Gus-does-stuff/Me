@@ -3,10 +3,8 @@ set -x
 cd /data/data/com.termux/files/home/storage/shared/Documents/Me
 
 COMMENT="GusDroid commit $(date)"
-COMMIT_LOG="../git-logs/commit-$(date)"
-PUSH_LOG="../git-logs/push-$(date)"
-git commit -am $COMMENT > $COMMIT_LOG
-git push > $PUSH_LOG
+git commit -am $COMMENT
+git push
 
 
 

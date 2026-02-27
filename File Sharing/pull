@@ -1,10 +1,8 @@
 #!/usr/bin/bash
 
-cd storage/shared
-cd Documents/Me
+cd /data/data/com.termux/files/home/storage/shared/Documents/Me
 
-git fetch > "../git-logs/fetch-$(date)"
-git pull  > "../git-logs/pull-$(date)"
-
+git fetch
+git pull
 
 
