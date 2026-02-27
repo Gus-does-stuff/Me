@@ -1,11 +1,14 @@
 #!/usr/bin/bash
+set -x
+cd /data/data/com.termux/files/home/storage/shared/Documents/Me
 
-cd storage/shared
-cd Documents/Me
+eval $(ssh-agent)
+ssh-add ~/.ssh/id_ed25519
 
+ssh -T git@github.com
 git add --all
-git commit -m "GusDroid commit $(date)" > "../git-logs/commit-$(date)"
-git push  > "../git-logs/push-$(date)"
+git commit -m "GusDroid commit bugtest 1"
+git push
 
 
 
