@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals and Time Management/Projects In The Making.md",
+                "file": "Goals and Time Management/Current Projects and Commitments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects In The Making"
+              "title": "Current Projects and Commitments"
             }
           }
         ],
@@ -185,9 +185,9 @@
   },
   "active": "cb049c4c113c954c",
   "lastOpenFiles": [
+    "Goals and Time Management/Projects In The Making.md",
     "Goals and Time Management/Current Projects and Commitments.md",
     "To-Do.md",
-    "Checklists",
-    "Goals and Time Management/Projects In The Making.md"
+    "Checklists"
   ]
 }
