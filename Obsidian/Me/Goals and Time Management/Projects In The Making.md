@@ -7,3 +7,5 @@
 - Träning
 - Sommarjobb
 - Game w Sixten
+- Hudvård
+- Roota Farmors Telefon
