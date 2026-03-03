@@ -1,5 +1,4 @@
 - DRust Kassör
-- BakaD
 - Bli TA
 - Mattekollo
 - Läsa 150%, 200%
