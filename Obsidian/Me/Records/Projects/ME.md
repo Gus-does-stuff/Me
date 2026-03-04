@@ -20,3 +20,5 @@ Franklins
 Särö
 Hvitfäldtska
 UVS
+Angus
+Farum
