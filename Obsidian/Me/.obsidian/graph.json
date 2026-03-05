@@ -1,22 +1,58 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Records/Attendances  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Personer  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084225
+      }
+    },
+    {
+      "query": "path:\"Goals and Time Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10724259
+      }
+    },
+    {
+      "query": "path:\"Technical Stuff/Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10395294
+      }
+    },
+    {
+      "query": "path:Records/Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 3618041
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 148,
+  "scale": 0.36288736930121057,
   "close": true
 }

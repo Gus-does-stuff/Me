@@ -3,3 +3,5 @@
 - tea alarm clock
 - Game w Sixten
 - spårvagnschaufför
+- Philosophy Thesis
+- Stretching

@@ -8,4 +8,4 @@
 - Cortege
 - Game w Emil
 - höjdpunkten
-- Träning
+- Sparande
