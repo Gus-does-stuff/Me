@@ -11,10 +11,14 @@
             "id": "5ea3cf4ce53be6b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Records/Projects/Läsa Utökat.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Läsa Utökat"
             }
           }
         ]
@@ -176,10 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ea3cf4ce53be6b5",
+  "active": "f15ab8d57e27b938",
   "lastOpenFiles": [
     "Goals and Time Management/Tier 1 - Confirmed Active.md",
-    "Läsa Utökat.md",
+    "Records/Projects/Läsa Utökat.md",
     "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
     "Records/Attendances/2026-03-05 Asp-Spelkväll.md",
     "Personer/Brante.md",

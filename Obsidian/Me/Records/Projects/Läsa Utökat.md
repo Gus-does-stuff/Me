@@ -1,3 +1,5 @@
+https://www.chalmers.se/utbildning/dina-studier/hitta-kurs-och-programplaner/kursplaner/?deptBenamning=MATEMATISKA+VETENSKAPER&eduLevelName=Grundniv%C3%A5&courseRounds.startStudyPeriod=LP4&search=
+
 # Kurser jag vill läsa:
 GU:
 https://www.gu.se/studera/hitta-utbildning/kommutativ-algebra-mma330
