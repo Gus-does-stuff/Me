@@ -83,30 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bag of many things.md",
+                "file": "Goals and Time Management/Tier 3 - Inactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bag of many things"
+              "title": "Tier 3 - Inactive"
             }
           },
           {
-            "id": "cddb0bd4632fc1a6",
+            "id": "d35efa0a88d3a182",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brante.md",
+                "file": "Personer/Noijan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brante"
+              "title": "Noijan"
+            }
+          },
+          {
+            "id": "9538dd2c579c4c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personer/Emil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emil"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,13 +267,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "cddb0bd4632fc1a6",
+  "active": "9538dd2c579c4c1a",
   "lastOpenFiles": [
-    "Bag of many things.md",
-    "Brante.md",
-    "My Philosophy.md",
+    "2026-03-06.md",
+    "Personer/Noijan.md",
     "Goals and Time Management/Tier 3 - Inactive.md",
     "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
+    "Records/Projects/3D renderer on md307.md",
+    "Brante.md",
+    "Records/Projects/My Philosophy.md",
+    "Records/Projects/Läsa Utökat.md",
+    "Records/Projects/Bag of many things.md",
+    "Records/Attendances/2026-03-05 Asp-Spelkväll.md",
+    "Personer/Brante.md",
+    "Bag of many things.md",
+    "My Philosophy.md",
     "Goals and Time Management/Tier 1 - Confirmed Active.md",
     "Records/Projects/ME.md",
     "Goals and Time Management/Goals, Guidelines.md",
