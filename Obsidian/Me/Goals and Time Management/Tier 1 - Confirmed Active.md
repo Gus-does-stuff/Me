@@ -9,3 +9,4 @@
 - Game w Emil
 - höjdpunkten
 - Sparande
+- [[Mathematical Studies]]
