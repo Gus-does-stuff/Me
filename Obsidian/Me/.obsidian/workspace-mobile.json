@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "Bag of many things"
             }
+          },
+          {
+            "id": "1e1760c183ac94aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personer/Corn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corn"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -267,8 +281,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9538dd2c579c4c1a",
+  "active": "271e1a7bb267fe5c",
   "lastOpenFiles": [
+    "Records/Projects/Bag of many things.md",
+    "Personer/Corn.md",
     "2026-03-06.md",
     "Records/Projects/ME.md",
     "Personer/Emil.md",
@@ -279,7 +295,6 @@
     "Brante.md",
     "Records/Projects/My Philosophy.md",
     "Records/Projects/Läsa Utökat.md",
-    "Records/Projects/Bag of many things.md",
     "Records/Attendances/2026-03-05 Asp-Spelkväll.md",
     "Personer/Brante.md",
     "Bag of many things.md",
