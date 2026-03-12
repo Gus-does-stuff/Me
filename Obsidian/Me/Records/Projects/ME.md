@@ -23,3 +23,6 @@ UVS
 Angus
 Farum
 Egge
+
+# idéer
+- daily check in: sitt i 3 minuter, se vad för känslor som bubblar upp.
