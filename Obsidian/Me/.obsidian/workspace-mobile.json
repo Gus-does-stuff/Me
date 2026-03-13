@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personer/Corn.md",
+                "file": "Goals and Time Management/Tier 3 - Inactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corn"
+              "title": "Tier 3 - Inactive"
             }
           }
         ],
@@ -281,10 +281,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "271e1a7bb267fe5c",
+  "active": "1e1760c183ac94aa",
   "lastOpenFiles": [
-    "Records/Projects/Bag of many things.md",
     "Personer/Corn.md",
+    "Records/Projects/Bag of many things.md",
     "2026-03-06.md",
     "Records/Projects/ME.md",
     "Personer/Emil.md",

@@ -6,4 +6,4 @@
 - Philosophy Thesis
 - Stretching
 - Elements Wizard Game Idea
-- 
+- Should write fiction about the immortal
