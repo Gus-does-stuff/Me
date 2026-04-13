@@ -1,5 +1,4 @@
 - Hijack the Laptop Screen
-- Roota Farmors Telefon
 - tea alarm clock
 - Game w Sixten
 - spårvagnschaufför
