@@ -1,8 +1,6 @@
 - Build Commander Deck
-- Build Myself
+- Build Myself [[ME]]
 - Nielsen Chuang
-- LinAlg
-- MOP
 - Linn DnD
 - Simon DnD
 - Cortege
@@ -11,3 +9,6 @@
 - Sparande
 - [[Mathematical Studies]]
 - [[Roota Farmors Telefon]]
+- DRust Kassör
+- Mattekollo
+- Träning
