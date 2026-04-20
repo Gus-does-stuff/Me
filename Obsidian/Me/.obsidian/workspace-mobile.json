@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals and Time Management/Tier 1 - Confirmed Active.md",
+                "file": "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tier 1 - Confirmed Active"
+              "title": "Tier 2 - Unconfirmed Active"
             }
           }
         ],
@@ -283,8 +283,8 @@
   },
   "active": "1e1760c183ac94aa",
   "lastOpenFiles": [
-    "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
     "Goals and Time Management/Tier 1 - Confirmed Active.md",
+    "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
     "Records/Projects/My Philosophy.md",
     "Goals and Time Management/Tier 3 - Inactive.md",
     "Personer/Corn.md",
