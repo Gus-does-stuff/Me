@@ -1,7 +1,6 @@
 - DRust Kassör
 - Bli TA
 - Mattekollo
-- Läsa 150%
 - Sommarjobb
 - Hudvård
 - Träning

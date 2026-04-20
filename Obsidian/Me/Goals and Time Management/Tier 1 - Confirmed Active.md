@@ -1,12 +1,12 @@
 - Build Commander Deck
 - Build Myself
 - Nielsen Chuang
-- LinAlg
-- MOP
+- Analys
+- DatKom
+- Datorsystemteknik
 - Linn DnD
 - Simon DnD
 - Cortege
 - Game w Emil
-- höjdpunkten
 - Sparande
 - [[Mathematical Studies]]
