@@ -1,12 +1,14 @@
 - Build Commander Deck
-- Build Myself
+- Build Myself [[ME]]
 - Nielsen Chuang
-- Analys
-- DatKom
-- Datorsystemteknik
 - Linn DnD
 - Simon DnD
 - Cortege
 - Game w Emil
+- höjdpunkten
 - Sparande
 - [[Mathematical Studies]]
+- [[Roota Farmors Telefon]]
+- DRust Kassör
+- Mattekollo
+- Träning

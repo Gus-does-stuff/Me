@@ -1,5 +1,4 @@
 - Hijack the Laptop Screen
-- Roota Farmors Telefon
 - tea alarm clock
 - Game w Sixten
 - spårvagnschaufför
@@ -7,3 +6,4 @@
 - Stretching
 - Elements Wizard Game Idea
 - Should write fiction about the immortal
+- Evolution Sim idea, how the creatures evolve is affected.

@@ -25,4 +25,8 @@ Farum
 Egge
 
 # idéer
-- daily check in: sitt i 3 minuter, se vad för känslor som bubblar upp.
+- daily check in
+- Add a diary
+- Make lists for everything
+	- Tenta, Conversation points
+	- 
