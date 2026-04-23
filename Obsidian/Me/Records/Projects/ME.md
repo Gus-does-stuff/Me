@@ -29,4 +29,5 @@ Egge
 - Add a diary
 - Make lists for everything
 	- Tenta, Conversation points
-	- 
+	- skicka faktura
+	    - kolla bankgiro-nummer
