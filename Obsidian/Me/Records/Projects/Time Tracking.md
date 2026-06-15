@@ -8,6 +8,7 @@ Code a good app
 Features:
 - always ticking along a task I am doing. For the tasks, I want them to reflect an underlying motivation instead of the action being performed. Not studying, obligated working or something like that.
     - sleeping
+    - Unproductive - limbo (nothing to do, overwhelmed, between activities)
     - Unproductive - resting (Youtube)
     - Unproductive - procrastinating
     - Productive - sleeping

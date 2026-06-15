@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Records/Projects/ME.md",
+                "file": "Records/Projects/Time Tracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ME"
+              "title": "Time Tracking"
             }
           }
         ],
@@ -297,12 +297,12 @@
   },
   "active": "624c1e5494621591",
   "lastOpenFiles": [
+    "Records/Projects/ME.md",
     "Goals and Time Management/Goals, Guidelines.md",
     "Goals and Time Management/Tier 1 - Confirmed Active.md",
     "Goals and Time Management/Tier 2 - Unconfirmed Active.md",
     "2026-03-06.md",
     "Records/Projects/Time Tracking.md",
-    "Records/Projects/ME.md",
     "Records/Projects/My Philosophy.md",
     "Goals and Time Management/Tier 3 - Inactive.md",
     "Personer/Corn.md",
