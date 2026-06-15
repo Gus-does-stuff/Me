@@ -1,4 +1,7 @@
 Do I need a naming scheme?
+
+Maybe not do project, social and diary in the same system? Might get too big and unwieldy.
+
 Should files be called nics or full names?
 I think nicks, full names specified in file
 Ta bild från wikin?
