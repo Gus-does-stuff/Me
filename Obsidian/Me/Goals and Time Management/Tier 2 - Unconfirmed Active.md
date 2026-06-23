@@ -1,5 +1,4 @@
 - Bli TA
-- Läsa 150%
 - Sommarjobb
 - Hudvård
 - John Baez, Tomas dms
